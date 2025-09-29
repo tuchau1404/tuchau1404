@@ -27,6 +27,10 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuchau1404&repo=ECTDS10&theme=shadow_blue" />
 </a> 
+<a href="https://github.com/tuchau1404/2.4Ghz_LNA/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuchau1404&repo=2.4Ghz_LNA&theme=shadow_blue" />
+</a> 
 
 #### 💻 Programming tools 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
